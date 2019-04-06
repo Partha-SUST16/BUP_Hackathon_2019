@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "922659621565",
+    "firebase_url": "https://vaxthon.firebaseio.com",
+    "project_id": "vaxthon",
+    "storage_bucket": "vaxthon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922659621565:android:1555e06700054eb3",
+        "android_client_info": {
+          "package_name": "com.example.vax_thon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922659621565-l39u906p8mqovta5h9k7f0n5u5ha8d26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vax_thon",
+            "certificate_hash": "284fb878540b5a3a6876f46855a75b56222217fc"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3kHnaXpGwCb_NAg4Eck1SzqZW_S1upPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922659621565-etruec7dq9ah7p69tvq9mpajuos757rd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

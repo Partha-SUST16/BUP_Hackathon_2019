@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal"
+    android:id="@+id/drawerLayoutId"
+    tools:context=".MainActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="10dp"
+        android:layout_margin="10dp"
+        >
+        <Button
+            android:id="@+id/adminBtnId"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:background="@drawable/button_background"
+            android:layout_gravity="center"
+            android:text="Admin"
+            android:layout_margin="10dp"
+            android:textColor="#ffffff"
+            />
+        <Button
+            android:id="@+id/memberBtnId"
+            android:layout_width="100dp"
+            android:layout_height="40dp"
+            android:background="@drawable/button_background"
+            android:layout_gravity="center"
+            android:text="Members"
+            android:layout_margin="10dp"
+            android:textColor="#ffffff"
+            />
+
+    </LinearLayout>
+
+
+</android.support.v4.widget.DrawerLayout>
